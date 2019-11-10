@@ -1,5 +1,5 @@
 {
-  "homepage": "http://medicinas.github.io/medicinas.github.io",
+  "homepage": "http://medicinas.github.io/",
   "name": "medicinas-landing",
   "version": "0.1.0",
   "private": false,
@@ -10,7 +10,7 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
