@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/medicinas-landing/static/css/main.b100e6da.chunk.css",
+    "main.js": "/medicinas-landing/static/js/main.3470e4bd.chunk.js",
+    "main.js.map": "/medicinas-landing/static/js/main.3470e4bd.chunk.js.map",
+    "runtime-main.js": "/medicinas-landing/static/js/runtime-main.17917cda.js",
+    "runtime-main.js.map": "/medicinas-landing/static/js/runtime-main.17917cda.js.map",
+    "static/js/2.c3f44026.chunk.js": "/medicinas-landing/static/js/2.c3f44026.chunk.js",
+    "static/js/2.c3f44026.chunk.js.map": "/medicinas-landing/static/js/2.c3f44026.chunk.js.map",
+    "index.html": "/medicinas-landing/index.html",
+    "precache-manifest.a13bbd65e97be4a209dfe4bd0ee848ba.js": "/medicinas-landing/precache-manifest.a13bbd65e97be4a209dfe4bd0ee848ba.js",
+    "service-worker.js": "/medicinas-landing/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/medicinas-landing/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/medicinas-landing/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17917cda.js",
+    "static/js/2.c3f44026.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.3470e4bd.chunk.js"
+  ]
+}
